@@ -9,4 +9,4 @@ Learn To Think Like A Computer Scientist. Master the fundamentals of the design 
 This [directory](stanford) contains all the assignments and work taken during this course. I am open to improvement.
 - Programming language: C. Only the algorithm was for some after an in-depth explanation. You may choose to use any language of your choice
 - Author: [Tim Roughgarden](https://www.coursera.org/instructor/~768)
-- Course Platform: Coursera
+- Course Platform: [Coursera](https://www.coursera.org)
